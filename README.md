@@ -53,7 +53,7 @@ The project will answer questions on how geographical factors as well as the sta
   
   - ## Data Source
   The health cost data used for this project can be found [here](https://www.kaggle.com/datasets)
-  The initial columns of the data are as follows:
+  The initial columns of the data are explained as follows:
      1. ID: A unique identifier assigned to each individual record, facilitating efficient data management and analysis.
      2. Smoker: A binary indicator of whether the patient is a smoker or not, as smoking habits can significantly impact healthcare costs.
      3. Age: The age of the patient, providing a crucial demographic factor that often correlates with medical expenses.
